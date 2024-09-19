@@ -20,3 +20,9 @@ __Texto en Negrita__
     * hi
       *yea   
 
+1. item 1
+   1.1 item 1.1
+   1.2 item 1.2
+2. buenas
+    2.1 hola
+    2.2 yeaaaaaaaaaaa
